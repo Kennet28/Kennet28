@@ -1,1 +1,1 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Kennet's Stats](https://github-readme-stats.vercel.app/api?username=Kennet28&show_icons=true)
